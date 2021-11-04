@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xA7344b2eC362502D39a25ac7fC9D9f7b61313E03",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xA7344b2eC362502D39a25ac7fC9D9f7b61313E03",
+  "CONTRACT_ADDRESS": "0x3a271ea79395ab30592c4cd6ee290064410d403f",
+  "SCAN_LINK": "https://polygonscan.com/address/0x3a271ea79395ab30592c4cd6ee290064410d403f",
   "NETWORK": {
-    "NAME": "Polygon Testnet",
+    "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 80001
+    "ID": 137
   },
   "NFT_NAME": "Crypto Birds Cafe",
   "SYMBOL": "CBC",
-  "MAX_SUPPLY": 300,
+  "MAX_SUPPLY": 8888,
   "WEI_COST": 12300000000000000000,
   "DISPLAY_COST": 12.30,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cccbbbb-v2",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypto-birds-cafe",
   "SHOW_BACKGROUND": true
 }
